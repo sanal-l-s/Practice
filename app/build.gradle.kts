@@ -67,6 +67,4 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
-    //Splash Api
-    implementation("androidx.core:core-splashscreen:1.0.1")
 }
